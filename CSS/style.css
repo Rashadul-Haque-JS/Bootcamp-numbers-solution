@@ -1,0 +1,17 @@
+
+body {
+    margin:  50px 100px 20px 100px;
+    background:  #ada48a;
+
+}
+
+.flowchart {
+    display: flex;
+    justify-content: center;
+}
+
+.flowchart img {
+    width: 80%;
+    height: 80%;
+    padding: 50px 0px 150px 0px;
+}
