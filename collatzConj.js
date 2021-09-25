@@ -34,7 +34,7 @@ function collatzConjecture(number) {   // Function number 1
 // Function number 2. To test 'Function number 1' using 'main function'. 
 
 function main() {
-    let number = 5;
+    let number = 10;
     collatzConjecture(number);
     return
 }
